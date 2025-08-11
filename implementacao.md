@@ -1,7 +1,7 @@
 # Relatório de Projeto – Desafio de Cloud AWS Practitioner | DIO
 
 **Data:** 11/08/2025  
-**Organização:** Digital Innovation One – Desafio AWS Practitioner  
+**Organização:** Abstergo Farma Distribuidora
 **Participante:** Gustavo Araújo Teixeira
 
 ## Visão Geral
